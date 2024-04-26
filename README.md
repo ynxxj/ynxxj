@@ -1,10 +1,17 @@
-### Hi there 👋
+### JunYoung Park Programming😎
+#### Languages
+![python](https://img.shields.io/badge/python-yellow.svg?&style=for-the-badge&logo=python&logoColor=Navy)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C_pro-blue.svg?&style=for-the-badge&logo=C&logoColor=black)
+***
 
+#### Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxny)](https://solved.ac/jxxny/)
+---
+
+**ynxxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my first GitHub profile.
+    
 <!--
-**ynxxj/ynxxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
